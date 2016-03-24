@@ -1,0 +1,28 @@
+name: Flickertail Studios
+favicon: null
+layout_spectrum: 0.8292886740528047
+typography_spectrum: 0.16533599398098886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10966269322670996
+  lightness: 0.02883177879266441
+  saturation: 0.7242311425507069
+  rhythmicContrast: 0.8370600836351514
+purpose: []
