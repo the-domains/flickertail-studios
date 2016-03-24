@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Here is a video of the wool waulking led by the amazing Norman Kennedy at the event hosted by the Northern Prairie Fiber Artists guild a few weeks ago.
-datePublished: '2016-03-24T12:25:03.405Z'
-dateModified: '2016-03-24T12:24:50.758Z'
+datePublished: '2016-03-24T12:47:38.120Z'
+dateModified: '2016-03-24T12:47:05.031Z'
 author:
   - name: Flickertail Fibers
     url: 'http://facebook.com/305652826140055'
@@ -26,14 +26,14 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
+sourcePath: _posts/2016-03-24-here-is-a-video-of-the-wool-waulking-led-by-the-amazing-norm.md
+published: true
 authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-sourcePath: _posts/2016-03-24-here-is-a-video-of-the-wool-waulking-led-by-the-amazing-norm.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
