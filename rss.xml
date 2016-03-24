@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Flickertail Studios]]></title>
         <description><![CDATA[Flickertail Studios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flickertail-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 01:55:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 02:03:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flickertail-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Flickertail Studios.]]></title>
             <description><![CDATA[<article><h1>Welcome to Flickertail Studios.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32ff8fb8-9af5-451d-80dc-d57f49089227.jpg"></article>]]></description>
-            <link>undefined7154a100-a8a3-47c7-991e-72a8476e1ade/index.html</link>
+            <link>https://thegrid.ai/flickertail-studios/7154a100-a8a3-47c7-991e-72a8476e1ade/index.html</link>
             <guid isPermaLink="false">7154a100-a8a3-47c7-991e-72a8476e1ade</guid>
             <pubDate>Thu, 24 Mar 2016 01:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.facebook.com/FlickertailFibers/</p>]]></description>
+            <link>https://thegrid.ai/flickertail-studios/d0f8f5ba-d5d0-47e4-9000-248621938883/index.html</link>
+            <guid isPermaLink="false">d0f8f5ba-d5d0-47e4-9000-248621938883</guid>
+            <pubDate>Thu, 24 Mar 2016 02:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
